@@ -38,3 +38,21 @@
 | Formacion media |
 | 10.º | x |
 | 11.º | x |
+
+##### Habilidades
+
+Comunicación.
+Confianza.
+Resolución de conflictos.
+Organización.
+Comunicación oral y escrita.
+Atención al detalle.
+Administración del tiempo.
+Empatía.
+
+###### Formacion adicional e interes o hobbies
+
+leer
+Redes sociales
+Cocina
+Deporte y ejercicio
