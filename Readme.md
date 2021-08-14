@@ -18,6 +18,23 @@
 | ------- | --------- | -------------------- | ------------- | ------ |
 | Yonny | Silva Agudelo | 91445415 | 3137284489 | yonnysilva260@gmail.com |
 | Janeth | Mojica Rey | 63461125 | 3013974255 | zambac7@gmail.com |
-| Jaider Julian | Silva Mojica | 1130265818 | jaidersilva290@gmail.com |
+| Jaider Julian | Silva Mojica | 1130265818 | 3043719206 | jaidersilva290@gmail.com |
 
+#### Formacion academica
 
+| campo | eleccion | 
+| ----- | -------- |
+| Formacion primaria | 
+| 1.º | x |
+| 2.º | x |
+| 3.º | x |
+| 4.º | x |
+| 5.º | x |
+| Formacion secundaria |
+| 6.º | x |
+| 7.º | x |
+| 8.º | x |
+| 9.º | x |
+| Formacion media |
+| 10.º | x |
+| 11.º | x |
