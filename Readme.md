@@ -41,18 +41,22 @@
 
 ##### Habilidades
 
-Comunicación.
-Confianza.
-Resolución de conflictos.
-Organización.
-Comunicación oral y escrita.
-Atención al detalle.
-Administración del tiempo.
-Empatía.
+| Habilidades | 
+| ----------- |
+| Comunicación |
+| Confianza |
+| Resolución de conflictos |
+| Organización |
+| Comunicación oral y escrita |
+| Atención al detalle |
+| Administración del tiempo |
+| Empatía |
 
 ###### Formacion adicional e interes o hobbies
 
-leer
-Redes sociales
-Cocina
-Deporte y ejercicio
+| Formacion adicional e interes o hobbies |
+| --------------------------------------- |
+| leer |
+| Redes sociales |
+| Cocina |
+| Deporte y ejercicio |
